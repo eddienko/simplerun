@@ -1,0 +1,7 @@
+base   simplerun
+author Eduardo Gonzalez
+email  e.gonzalezsolares@gmail.com
+date   2014-04-01
+name   Simplerun Plugin
+desc   Give the capability of execute programs or scripts from dokuwiki pages
+url    http://www.dokuwiki.org/plugin:simplerun
